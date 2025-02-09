@@ -23,6 +23,3 @@ The Random Forest Classifier (`penguins_rfc.pkl`) was pre-trained on the penguin
 When the app is running, either:
 1. Provide input parameters through the sidebar, or
 2. Upload a CSV file with penguin features for predictions.
-
-## Acknowledgments
-Special thanks to [Allison Horst](https://github.com/allisonhorst) for the Palmer Penguins dataset.
